@@ -1,4 +1,4 @@
-# Predikcia makroekonomických ukazovateľov pomocou modelov strojového učenia
+# Predikcia makroekonomických indikátorov pomocou modelov strojového učenia
 
 Tento projekt vznikol ako výskumná časť diplomovej práce vypracovanej na Fakulte managementu Univerzity Komenského v Bratislave. Jeho hlavným cieľom je porovnanie výkonnosti rôznych modelov strojového učenia pri predikcii hlavných makroekonomických ukazovateľov v slovenskej ekonomike.
 
